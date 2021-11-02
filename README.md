@@ -2,4 +2,4 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Hosted on blind-box.netlify.app
+Hosted on [Netlify](https://blind-box.netlify.app)
